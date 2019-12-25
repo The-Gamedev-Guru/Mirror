@@ -1,3 +1,5 @@
+TheGamedev.Guru: I did some modifications to the Tank example to show how it is (painfully) possible to use Addressable with Mirror. For more details check my [course](https://thegamedev.guru/unity-addressables-course/).
+
 ![Mirror Logo](https://i.imgur.com/MBpESqo.png)
 
 [![Download](https://img.shields.io/badge/asset_store-brightgreen.svg)](https://www.assetstore.unity3d.com/#!/content/129321)
